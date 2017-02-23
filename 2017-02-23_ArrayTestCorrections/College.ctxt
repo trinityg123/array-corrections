@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=name\ region\ tuition
+comment0.target=College(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.lang.String\ getRegion()
+comment3.params=
+comment3.target=int\ getTuition()
+comment4.params=newTuition
+comment4.target=void\ setTuition(int)
+numComments=5
